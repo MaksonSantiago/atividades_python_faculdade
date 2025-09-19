@@ -21,4 +21,4 @@ for filme in filmes:
             print(f"{filme} com {classificacao} estrelas.\n")
 
 #Encerra a avaliação
-print("Avaliação terminada.")
+print("Obrigado por avaliar os filmes.")
